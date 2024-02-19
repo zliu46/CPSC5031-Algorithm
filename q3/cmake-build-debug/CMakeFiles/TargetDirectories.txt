@@ -1,0 +1,3 @@
+/Users/zhouliu/Desktop/5042/q3/cmake-build-debug/CMakeFiles/q3.dir
+/Users/zhouliu/Desktop/5042/q3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zhouliu/Desktop/5042/q3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
